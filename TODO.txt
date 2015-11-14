@@ -1,0 +1,5 @@
+TODO:
+
+- install sklearn 0.13.1 to ficolo
+- run sgd
+- verify tt results
